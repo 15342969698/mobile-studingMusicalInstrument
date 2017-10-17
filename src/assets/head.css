@@ -1,0 +1,5 @@
+img{ display: block}
+.header{ height: 44px;  background:#c01920; text-align: center;  display: flex; align-items: center }
+.header img{ height: 40px; margin:0 auto}
+.nav{ display: flex; justify-content: space-around; height: 44px; border-bottom: 1px solid #ccc; align-items: center}
+.nav img{ width: 22px;}
